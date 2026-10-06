@@ -1,0 +1,5 @@
+from persegi_panjang import *
+pp = PersegiPanjang(3, 2)
+print(pp)
+print("Keliling:", pp.keliling())
+print("Luas:", pp.luas())
